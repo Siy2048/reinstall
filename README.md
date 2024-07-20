@@ -66,7 +66,7 @@
 国外服务器：
 
 ```bash
-curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh
+curl -O https://raw.githubusercontent.com/Siy2048/reinstall/main/reinstall.sh
 ```
 
 国内服务器：

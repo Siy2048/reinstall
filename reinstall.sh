@@ -3208,7 +3208,7 @@ if ! { is_netboot_xyz || is_use_dd; }; then
         username="root"
     fi
     echo "Username: $username"
-    echo "Password: 123@@@"
+    echo "Password: )hJ?36]Zn!}x5:6*U~)m"
 fi
 
 if is_netboot_xyz; then

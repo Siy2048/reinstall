@@ -68,9 +68,11 @@
 ```bash
 curl -O https://raw.githubusercontent.com/Siy2048/reinstall/main/reinstall.sh
 ```
-```chmod -R 777 ./
 ```
-```./reinstall.sh debian 9
+chmod -R 777 ./
+```
+```
+./reinstall.sh debian 9
 ```
 国内服务器：
 
